@@ -1,6 +1,4 @@
-# HarvardX CS50P's Introduction to Programming with Python
-
-### Week 0: Functions, Variables
+# Week 0: Functions, Variables
 
 Link to Problem Set 0: https://cs50.harvard.edu/python/2022/psets/0/
 
