@@ -8,7 +8,7 @@
 - Einstein
 - Tip Calculator
 
-### :white_check_mark: [Week 1: Conditions](https://github.com/lukaszwieczynski/CS50P/blob/main/week_1.md)
+### :white_check_mark: [Week 1: Conditionals](https://github.com/lukaszwieczynski/CS50P/blob/main/week_1.md)
 
 - Deep Thought
 - Home Federal Savings Bank
