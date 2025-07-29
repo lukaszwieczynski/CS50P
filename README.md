@@ -15,3 +15,11 @@
 - File Extensions
 - Math Interpreter
 - Meal Time
+
+### :white_check_mark: [Week 2: Loops](https://github.com/lukaszwieczynski/CS50P/blob/main/week_2.md)
+
+- camelCase
+- Coke Machine
+- Just setting up my twttr
+- Vanity Plates
+- Nutrition Facts
